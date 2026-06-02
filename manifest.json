@@ -1,7 +1,8 @@
 {
-    "name": "北斗问天1.1",
-    "short_name": "北斗问天1.1",
-    "start_url": ".",
+    "name": "北斗问天 · 奇门排盘",
+    "short_name": "北斗问天",
+    "start_url": "/",
+    "scope": "/",
     "display": "standalone",
     "background_color": "#B8D4EE",
     "theme_color": "#B8D4EE",
