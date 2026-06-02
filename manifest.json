@@ -1,12 +1,12 @@
 {
     "name": "北斗问天 · 奇门排盘",
-    "short_name": "北斗问天",
+    "short_name": "北斗问天1.2",
     "start_url": "/",
     "scope": "/",
     "display": "standalone",
     "background_color": "#B8D4EE",
     "theme_color": "#B8D4EE",
-    "description": "北斗问天1.1（奇门遁甲）离线排盘",
+    "description": "北斗问天1.2（奇门遁甲）离线排盘",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
